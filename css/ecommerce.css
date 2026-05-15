@@ -1,0 +1,18 @@
+@media (max-width: 1200px) and (min-width:200px) {
+    .customer {
+        display: flex;
+        text-align: left;
+    }
+
+    .customer img {
+        margin: 12px;
+    }
+
+    .customer h5 {
+        text-align: left;
+    }
+
+    .customer p {
+        margin-top: -10px;
+    }
+}

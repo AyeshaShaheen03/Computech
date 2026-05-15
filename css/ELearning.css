@@ -1,0 +1,58 @@
+.btn1{
+     border: 1px solid rgb(105, 105, 254);
+    border-radius: 100%;
+    display: inline-block;
+    flex: 0 0 auto;
+    height: 40px;
+    /* margin-left: 327px; */
+    position: relative;
+    transition: background-color 2s ease-in-out;
+    width: 40px;
+    font-size: 28px;
+}
+.btn2{
+    border: 1px solid rgb(105, 105, 254);
+   border-radius: 100%;
+   display: inline-block;
+   flex: 0 0 auto;
+   height: 40px;
+   /* margin-left: 327px; */
+   position: relative;
+   transition: background-color 2s ease-in-out;
+   width: 40px;
+   font-size: 28px;
+}
+.card:hover{
+background-color: #fffdf5;;
+}
+
+.box-8 {
+    /* display: flex; */
+    background-color: rgb(254, 254, 254);
+    /* height: 120px; */
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 2px;
+    border: 1px solid rgb(236, 233, 226);
+    box-shadow: 2px 2px rgb(236, 233, 226);
+    /* box-sizing: content-box; */
+    border-radius: 4px;
+  }
+  .box-8 img {
+    width: 80px;
+    height: 80px;
+  }
+  .box-5 {
+    position: sticky;
+    top: 70px; /* Adjust as needed */
+    padding: 10px;
+}
+    @media (max-width:3400px) and (min-width: 992px) {
+        .box-5 {
+           padding-left: 3.5rem;
+        }
+    }

@@ -1,0 +1,15 @@
+.uul li{
+    line-height: 36px;
+    font-size: 18px;
+   list-style-type: square;
+}
+.box-5 {
+    position: sticky;
+    top: 70px; /* Adjust as needed */
+    padding: 10px;
+}
+    @media (max-width:3400px) and (min-width: 992px) {
+        .box-5 {
+           padding-left: 3.5rem;
+        }
+    }

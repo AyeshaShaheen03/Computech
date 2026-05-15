@@ -1,0 +1,21 @@
+@media (max-width: 768px) and (min-width:200px) {
+    .microsoft img {
+       width: 40%;
+       /* height: 62px; */
+    }
+}
+@media (max-width: 2200px) and (min-width:768px) {
+    .microsoft img {
+     width: 100%;
+    }
+}
+.box-5 {
+    position: sticky;
+    top: 70px; /* Adjust as needed */
+    padding: 10px;
+}
+    @media (max-width:3400px) and (min-width: 992px) {
+        .box-5 {
+           padding-left: 3.5rem;
+        }
+    }

@@ -1,0 +1,38 @@
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #fff;
+}
+
+.active {
+  background-color: #225470;
+  color: #fff;
+}
+
+.mycourse {
+  margin-top: 30px;
+}
+
+.mycourse-btn {
+  color: #fff;
+  background-color: #225470;
+  padding: 6px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+.mycourse a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.stuheader{
+  background-color: #225470;
+}
+
+.profile-header li{
+  color: white;
+
+}
