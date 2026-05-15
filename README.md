@@ -1,5 +1,4 @@
 Running CompuTech Website on Localhost:
-
 For Windows:
 1-
 Install XAMPP:
