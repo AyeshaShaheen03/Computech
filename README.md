@@ -31,8 +31,5 @@ Import the database included in the 'computech' folder into phpMyAdmin.
 Open localhost/phpmyadmin/ in your browser, create a new database named 'computech', and import the provided SQL file.
 4-
 Launch Website:
-<<<<<<< HEAD
 Open your web browser and navigate to localhost/computech/ to view the website.
-=======
-Open your web browser and navigate to localhost/computech/ to view the website.
->>>>>>> cb557427f3433c17715f244dca823eb749ac72df
+
